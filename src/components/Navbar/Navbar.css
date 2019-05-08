@@ -1,0 +1,32 @@
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 1.5rem;
+  font-size: 14px;
+  height: 70px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.fa-shopping-cart {
+  color: black;
+  font-size: 30px;
+}
+
+.cart-item-no {
+  border-radius: 100%;
+  background-color: blueviolet;
+  color: white;
+  padding: 5px;
+  position: relative;
+  top: -24px;
+  right: 6px;
+  font-size: 10px;
+}
