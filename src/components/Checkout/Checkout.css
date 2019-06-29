@@ -1,0 +1,54 @@
+.Checkout-Wrapper {
+  margin-top: 10%;
+}
+.Checkout-Title {
+  text-align: center;
+  margin: 1rem;
+}
+.Checkout-Form {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: column wrap;
+  flex-flow: column wrap;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.Checkout-Input {
+  width: 53%;
+  height: 45px;
+  display: block;
+  border: 1px solid #ededed;
+  padding: 3px 0 3px 10px;
+  margin: 1rem;
+  outline: none;
+}
+.product-button {
+  background-color: #222;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 11px;
+  outline: none;
+  cursor: pointer;
+  height: 36px;
+}
+.Checkout-Button {
+  padding: 0;
+  font-weight: 700;
+  margin: 1rem;
+}
+.Close-Modal {
+  position: absolute;
+  top: 11px;
+  right: 15px;
+  color: #000;
+  cursor: pointer;
+}
+.modal-content {
+  background-color: #fff;
+  margin-top: 30%;
+}
