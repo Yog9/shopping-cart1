@@ -3,7 +3,7 @@
 
 ## Summary
 
-Shopping Cart is an ecommerce website made with react. User can shop for shirts and add and remove items from  the cart.
+Shopping Cart is an ecommerce website made with react. User can shop for shirts and also add and remove items from  the cart.
 
 ### Motivation
 The purpose of this project was to get familiar with React js.
